@@ -27,8 +27,8 @@ If you have not yet installed the [Go Dependency Management Tool](https://github
 
 ### Build and Install
 ```
-$ go get github.com/linkedin/Burrow
-$ cd $GOPATH/src/github.com/linkedin/Burrow
+$ go get github.com/supersonicads/Burrow
+$ cd $GOPATH/src/github.com/supersonicads/Burrow
 $ dep ensure
 $ go install
 ```
